@@ -29,11 +29,10 @@
 <a href="mailto:aud780@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </br>
+<div></div>
 
 ![MyoungJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YMJ936&show_icons=true&theme=transparent)
 
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YMJ936)](https://github.com/YMJ936/github-readme-stats)
 
 </div>
+
