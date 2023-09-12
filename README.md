@@ -1,5 +1,9 @@
-백엔드 개발자 유명준의 깃허브입니다.
-블로그:<a href="https://top780.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/유명준의 개발공부일지-#000000?style=flat-square&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>&logoColor=#000000"/></a>
+![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&text=MyoungJoon%20Yu&fontColor=FFFFFF&fontSize=55)
+<div align="center">
+:wave:유명준의 깃허브입니다!
 
+  자바, <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+</div>
 
+블로그 주소,이메일
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YMJ936&show_icons=true&theme=radical)
