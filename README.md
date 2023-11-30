@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=falt&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=falt&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=falt&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/amazonaws-FF9900?style=falt&logo=amazonaws&logoColor=black">
+  <p>
 </br>
 🙋‍♂️유명준</br>
 <a href="https://top780.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=falt&logo=tistory&logoColor=white"/></a>
