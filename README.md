@@ -23,12 +23,9 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=falt&logo=bootstrap&logoColor=white"/>
   
   
-<br>
-🙋‍♂️유명준</br>
-<a href="https://top780.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=falt&logo=tistory&logoColor=white"/></a>
-<a href="mailto:aud780@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=falt&logo=gmail&logoColor=white"/></a>
+<br/>
+<br/>
 
-<br>
 <div>
 
 ![MyoungJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YMJ936&show_icons=true&theme=transparent)
