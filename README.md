@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=falt&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=falt&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=falt&logo=thymeleaf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=falt&logo=javascript&logoColor=black"/>
 
 
 <div>
