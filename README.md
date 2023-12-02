@@ -10,8 +10,6 @@
 
 📝스프링부트를 주로 사용해서 개발하고 있습니다.
 
-<br>
-
 🛠Skill
 <br>
   <img src="https://img.shields.io/badge/java-FC4C02?style=falt&logo=java&logoColor=white">
