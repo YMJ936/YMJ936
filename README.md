@@ -8,8 +8,6 @@
 
 👋플러터 개발자 유명준의 깃허브입니다!
 
-📝스프링부트로 개발을 시작했습니다.
-
 🛠Skill
 <br>
   <img src="https://img.shields.io/badge/java-FC4C02?style=falt&logo=java&logoColor=white">
